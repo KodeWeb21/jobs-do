@@ -1,91 +1,82 @@
 [
-    {
-        "id": 1,
-        "puesto": "Programador",
-        "empresa": "Consultants LA, SRL",
-        "direccion": "Ave. Las Americas Km 27 1/2, La caleta Santo Domingo Este. PCSD Edificio Westsposrt 2do piso",
-        "descripcion": "Programador con conocimiento avanzado en computación y desarrollo de sistemas Web, manejo de lenguajes y herramientas de desarrollo, C, HTML, JavaScript, Asp.net MVC 4+, SQL. Deseable Angular 2, ETL SSIS.",
-        "requisitos": "Tener experiencia en el sector financiero (Banca y/o Seguros), Habilidad para trabajar de manera independiente y en equipo, Responsabilidad y capacidad de cumplir con objetivos y fechas de entrega. Conocimiento avanzado en computación y desarrollo de sistemas web. (indispensable) Manejo de los siguientes lenguajes y herramientas de desarrollo: o C# (indispensable) o HTML (Indispensable) o JavaScript (Indispensable) o Asp.net web Forms (Indispensable) o Asp.net MVC 4+ (Indispensable) o SQL (indispensable) o Angular 2 (Deseable) o ETL SSIS (Deseable)",
-        "url": "https://www.aldaba.com/detalle_of.php?oferta=24442821&q=Web&f=1&job=Programador-Santo-Domingo",
-        "pagina": "Aldaba"
-    },
-    {
-        "id": 2,
-        "puesto": "Desarrollador Frontend",
-        "empresa": "Innovix",
-        "direccion": "Av. Winston Churchill esq. Rafael Agusto Sanchez, Torres Acropolis, piso 8, Ens.Piantini, Santo Domingo",
-        "descripcion": "Formación Ingeniero de Software o carreras afines Mínimo 2 años de experiencia. Funciones: Estructurar y diseñar sistemas de microservicios y su comunicación. Implementar flujos de integración continuos desde el desarrollo hasta la implementación Aplicar la identidad de la marca Luuna y permitir que los diseñadores traduzcan su visión Inteligencia tecnológica sobre las mejores prácticas frontend  Técnicas de interfaz clave para mejorar la experiencia del usuario (es decir, división de paquetes, servicio diferencial, precarga, etc.)  Escribir código limpio y mantenible  Detectar y abordar problemas de rendimiento con web.dev Participar en ceremonias de scrum y revisiones de diseño. Modalidad de contratación: Fijo – Indefinido. Experiencia mínima: 2 Años. Edad: Mayor de 21 años. Lugar. Santo Domingo, D.N Sexo: Indistinto. Salario: De acuerdo a la experiencia del candidato. Puede remitirnos su CV. vancantes@concentra.com.do",
-        "url" : "https://www.aldaba.com/detalle_of.php?oferta=24443010&q=web&job=Desarrollador-Frontend-Santo-Domingo",
-        "pagina" : "Aldaba"
-    },
-    {
-        "id" : 3,
-        "puesto" : "POSICIONES DE TECNOLOGIA",
-        "empresa" : "MABEL ROSADO.COM",
-        "descripcion" : "1.Desarollador Full Stack Empresa de Servicios Multinacional RD$ 90,000.00 Estudiante de Termino o graduado en Ing. Sistema Experiencia como Desarrollador más 3 años en el area Diseñar y entregar aplicaciones web completas Crear el diseño front-end y back-end de sitios web y aplicaciones de software Requisitos Control de versiones (Git) x Marcos de desarrollo y bibliotecas de terceros (como JQuery, LESS, SASS, AngularJS, REACT JAVA Spring, MyBatis, Hibernate, Python Django) x Bases de datos relacionales (como RESTful API, MYSQL, NoSQL). 2. Coordinador BI y Proyectos Empresa Sector Industrial RD`120,000.00 Graduado en Ing. Sistema / Project Management del area de Tecnologia Experiencia mas de 7 anos en el area Experiencia en Implementacion de Proyectos Requisitos Certificado Certificado PMP /PMI Manejo de herramientas de Base de Datos, SQL Server, Oracle u otros. Manejo de Visual Studio Manejo de C# SharePoint Manejo de MVC Manejo avanzado de herramientas de análisis de datos (OLAP). 3.Coordinador QA IT Empresa de Telecomunicaciones RD$ 120,000.00 Graduado en Ing. Sistema Experiencia en el área más de 5 anos Experiencia en Pruebas Funcionales y No Funcionales. Experiencia en definición de diferentes enfoques de Pruebas Experiencia diferentes esquemas de ejecución.",
-        "requisitos" : "Lógica de Programación (X), Conocimientos de Metodologías de Testing (X) Conocimiento de Arquitectura de Software(*) Elaboración de Reportes y Estadísticas (*) ASP.NET / Lenguajes de Programación Configuración de aplicaciones favor enviar su cv a info@mabelrosado.com",
-        "url" : "https://www.aldaba.com/detalle_of.php?oferta=24453170&q=web&job=POSICIONES-DE-TECNOLOGIA-Santo-Domingo",
-        "pagina" : "Aldaba"
-     },
-     {
-         "id" : 4,
-         "puesto" : "Software Developer (Swift/Objective C)",
-         "empresa" : "Oriontek",
-         "descripcion" : "We are looking for a Software Developer with a major experience with Swift / Objective C to join our family!",
-         "requisitos" : "- Bachelor's degree in Computer Science, Engineering, or other science-based discipline. - 2+ years of experience s a Mobile Developer working with Swift/Objective C. - CI/CD knowledge. - Experience working with microservices. - Advanced english level.",
-         "url" : "https://www.aldaba.com/detalle_of.php?oferta=24433894&q=web&job=Software-Developer-Swift-Objective-C-Santo-Domingo",
-         "pagina" : "Aldaba"
-     },
-     {
-         "id" : 5,
-         "puesto" : "Desarrollador Senior Full Stack",
-         "empresa" : "Oriontek",
-         "descripcion" : "Como Desarrollador Senior Full Stack estarás a cargo de desarrollar y optimizar aplicaciones web poniendo en práctica las tecnologías requeridas.",
-         "requisitos" : "-C# -Asp.net -GitLab / Github -SQL Server -SSIS (SQL Server Integration Service) - Html, Css, JS, JSON, GIT, SCSS, TypeScript, ANGULAR 2+, UNIT TESTING (KARMA~JASMINE), REDUX(NgRx), - Firebase. Tecnologías opcionales: -Oracle -Asp.net Abp Boilerplate -Pruebas unitarias e integración -Conocimientos de Continous Integration & Continuous Delivery",
-         "url" : "https://www.aldaba.com/detalle_of.php?oferta=24433893&q=web&job=Desarrollador-Senior-Full-Stack-Santo-Domingo",
-         "pagina" : "Aldaba"
-     },
-     {
-         "id" : 6,
-         "puesto" : "Software Developer Junior",
-         "empresa" : "VIP Personnel SRL",
-         "descripcion" : "Licenciatura y/o Técnico en desarrollo de software y/o Informática. ● Desarrollo sobre sistema web basado en .NET Core 5, utilizando C# como lenguaje de programación ● Desarrollo de aplicaciones web y de escritorio para uso interno y externo a la empresa ● Manejar correcciones y mejoras para aplicaciones existentes. ● Análisis de requerimientos.",
-         "requisitos" : "-Licenciatura y/o Técnico en desarrollo de software y/o Informática; o experiencia general equivalente. -Alta orientación en búsqueda de información. -Un (1) a dos (2) años de experiencia en tecnología de Microsoft, C# y SQL Server",
-         "url" : "https://www.aldaba.com/detalle_of.php?oferta=24381504&q=web&job=Software-Developer-Junior-Santo-Domingo",
-         "pagina" : "Aldaba"
-     },
-     {
-         "id" : 7,
-         "puesto" : "Application Support analyst",
-         "empresa" : "Oriontek",
-         "descripcion" : "Managing ticket workload across a number of customers, escalating issues where appropriate and providing resolution to issues • Liaising with internal Customer Managers, Service Desk, Incident and Problem Managers and Change Managers, whilst being involved in the management of major incidents and performance reporting • Troubleshooting issues in the product (application and data), database server, web server (IIS), and networks, to minimize risk of disruptions • Communicating and escalating critical service failures through the Incident Management, Problem Management and Senior Management teams • Ensuring reviews are fully documented and actions are raised and fulfilled • Being involved in changes to the service operation tools, processes and working practices • Assisting in defining and meeting SLAs, OLAs and maintenance, as well as updates of the service catalogue • Assisting in building up the Services Support Knowledgebase and promoting more 1st- line support resolution by JIRA Service Desk • Undertaking continuous improvement in the operation • Coordinating with Delivery (Product Development) and Implementation teams to support product updates • Supporting updates to products and services in both test and live system environments, in compliance with defined procedures • Creating Microsoft SQL Server and Oracle Databases scripts to identify and correct data integrity issues in customer's data • Identifying opportunities that can improve efficiency of business and technical processes • Including all other duties as may arise from time to time and as may be assigned",
-         "requisitos" : "A Bachelor`s degree in IT or Computer Science with 2+ years experience with web-based applications that have used SQL Server and/or Oracle databases.",
-         "url" : "https://www.aldaba.com/detalle_of.php?oferta=24368070&q=web&job=Application-Support-analyst-Santo-Domingo",
-         "pagina" : "Aldaba"
-     },
-     {
-         "id" : 8,
-         "puesto" : "Programador",
-         "empresa" : "FIMED",
-         "descripcion" : "Programador para desarrollo y mantenimiento de aplicación web.",
-         "requisitos" : "Experiencia demostrable en: -ASP.NET MVC - HTML y CSS - JavaScript, jQuery - SQL Server (avanzado) - Git - Manejo de Azure -SSRS (SQL Server Reporting Services)",
-         "url" : "https://www.aldaba.com/detalle_of.php?oferta=24336486&q=web&job=Programador-Santo-Domingo",
-         "pagina" : "Aldaba"
-     },
-     {
-         "id" : 9,
-         "puesto" : "Programador web",
-         "empresa" : "Ktech Solutions",
-         "descripcion" : "Programador para aplicaciones móviles híbridas con las siguientes características: - Fuertes conocimientos en Flutter - Fuertes conocimientos en PHP - Fuerte conocimiento de HTML y JavaScript - Conocimiento en base de datos MySQL - Conocimiento en control de versiones GIT",
-         "url" : "https://www.aldaba.com/detalle_of.php?oferta=24331671&q=web&job=Programador-span-style=-background-color-#ffff99-web-span-Santo-Domingo",
-         "pagina" : "Aldaba"
-     },
-     {
-         "id" : 10,
-         "puesto" : "Full Stack Developer",
-         "empresa" : "Skymax Services SAS",
-         "descripcion" : "Job description We are looking for a full-stack developer that would be able to analyze, design, and develop new applications or update existing ones, always in accordance with the requirements of the project or task assigned, ensuring high performance and responsiveness. Responsibilities: Good English level. Build efficient, testable, and reusable PHP and/or C# code. Solve complex performance problems and architectural challenges. Integrate elements that may be developed by other members of the team. Design and integrate data storage solutions, like databases, key-value stores, etc. Follow industry best practices. Skills and qualifications: BS/MS degree in Computer Science, Engineering, or a related subject. Understanding fundamental design principles behind a scalable application. Writing clean, fast PHP, and/or C# to a high standard. Creating database schemas that represent and support business processes. Strong knowledge of SQL database integration (SQL, MySQL, PostgreSQL). Knowledge of PHP frameworks, such as Laravel, CodeIgniter, Symphony. Knowledge of .NET technologies, such as LINQ, Entity Framework, Identity, ASP.NET (webAPI, and MVC). Experience in object-oriented programming. Knowledge of versioning tools such as Git. Understanding of MVC architecture. Strong knowledge of front-end technologies, such as JavaScript, HTML5, and CSS3. Experience using third-party APIs. Experience working with Angular v4 or above. Basic experience using SQL Server and Windows Server. Excellent verbal, interpersonal, and written communication skills. Strong analytical, problem-solving skills.",
-         "url" : "https://www.aldaba.com/detalle_of.php?oferta=24372909&q=web&job=Full-Stack-Developer-Santiago",
-         "pagina" : "Aldaba"
-     }
+   {
+       "id":1,
+       "puesto":"Facturacion",
+       "area":"Contabilidad",
+       "descripcion":"Licenciada o estudiante de termino de contabilidad Experiencia en posiciones similares Residir en Santo Domingo Este Experiencia en Facturacion",
+       "aplicar":"Aldaba",
+       "url":"https://www.aldaba.com/detalle_of.php?oferta=24790930&job=Facturacion-Santo-Domingo-Este"
+   },
+   {
+       "id":2,
+       "puesto":"Auxiliar de contabilidad",
+       "area":"contabilidad",
+       "descripcion":"• Nivel académico mínimo de Estudiante Universitario • 5 ó más años de experiencia • Requiere residencia actual en Santo Domingo Este, República Dominicana • Autoevaluarse, en el formulario de envío de CV, en las siguientes 5 competencias: • Busqueda de Información • Franqueza / Confiabilidad / Integridad • Orientación a los resultados • Preocupación por el orden y la claridad • Responsabilidad",
+       "aplicar":"Aldaba",
+       "url": "https://www.aldaba.com/detalle_of.php?oferta=24786382&job=Auxiliar-Contabilidad-Santo-Domingo-Este"
+   },
+   {
+       "id":3,
+       "puesto":"Contabilidad general",
+       "area":"contabilidad",
+       "descripcion":"Planificar, y dirigir el proceso contable de la empresa, velando porque este sea completo, oportuno, fidedigno y permanente. Elaboración de causaciones de todos los hechos económicos de la empresa tales como: (Gastos, Venta, compras, nomina, depreciaciones, amortizaciones, contratos de obra y demás contratos etc.)  Aplicar en todas las compras y gastos las respectivas obligaciones tributarias.  Registro todos los ingresos de la compañía (Lubricantes, gasolina, gasoil) así como también los de cada punto de venta.  Revisar y validar inventario en las estaciones.  Revisar el cuadre de caja con la persona encargada de tesorería (auxiliar vs papel de trabajo)  Registro de datos para la Conciliaciones Bancarias.  Elaboración de Registros Contables.  Cuadre de los diferentes punto de venta (junto con el personal involucrado)  Colaboración con la información para Gerencia y Contador  Redacción de correspondencias pertinentes al Departamento de Contabilidad.  Registro de cheques, prestamos de entidades bancarias, compras a proveedores así como la validación de la misma.  Colaboración con el Contador para la presentación de los informes  Recopilación de documentos para solicitud de crédito ante los Bancos.  Conciliar cada una de las cuentas de balance en conjunto con el contador  Preparación de auxiliares de bancos para sus respectivas conciliaciones  Informes preliminares de Balances  Emisión de Facturas a clientes.  Vigilar, preparar y mantener en custodia el archivo pertinente al departamento contable  Preparación de pago de choferes trasporte de combustible  Arqueo de los puntos de ventas.  Revisar que cada factura de gasto que reciba esté debidamente contabilizado y que tenga los números de comprobante fiscal válidos.  Revisar que cada depósito que reciba esté debidamente contabilizado y conciliado con la cuenta.  Y demás funciones asignadas.",
+       "aplicar":"Aldaba",
+       "url":"https://www.aldaba.com/detalle_of.php?oferta=24785935&job=Contabilidad-general-Santo-Domingo-Este"
+   },
+   {
+       "id":4,
+       "puesto":"Analista de contabilidad",
+       "area":"contabilidad",
+       "descripcion":"Registro documentos contables de la empresa y elaboración borrador de impuestos mensuales (IR-17 / ITBIS) Buen dominio de excel Buenas relaciones interpersonales Experiencia en registros contables Experiencia en preparación de impuestos mensuales Elaboración de conciliaciones bancarias Residir en la zona oriental 22,000",
+       "aplicar":"Aldaba",
+       "url":"https://www.aldaba.com/detalle_of.php?oferta=24785462&job=Analista-de-contabilidad-Santo-Domingo-Este"
+   },
+   {
+        "id":5,
+        "puesto":"Asistente de Contabilidad",
+        "area":"contabilidad",
+        "descripcion":"Registro documentos contables de la empresa y elaboración borrador de impuestos mensuales (IR-17 / ITBIS) Buen dominio de excel Buenas relaciones interpersonales Experiencia en registros contables Experiencia en preparación de impuestos mensuales Elaboración de conciliaciones bancarias Residir en la zona oriental Si no cumple los requisitos favor no aplicar 22,000",
+        "aplicar":"Aldaba",
+        "url":"https://www.aldaba.com/detalle_of.php?oferta=24739924&job=Asistente-de-Contabilidad-Santo-Domingo-Este"
+   },
+   {
+       "id":6,
+       "puesto":"Analista de creditos",
+       "area":"contabilidad",
+       "descripcion":"Administrar los créditos otorgados a los clientes de la empresa de acuerdo a las polítivas de crédito con el fin de mantenerlas actualizadas. Licenciado en Contabilidad. Experiencia de 2 a 5 años. A discutir",
+       "aplicar":"Aldaba",
+       "url":"https://www.aldaba.com/detalle_of.php?oferta=24759069&job=Analista-de-Cr%E9ditos-Santo-Domingo-Este"
+   },
+   {
+       "id":7,
+       "puesto":"Auditor Comercial Junior",
+       "area":"contabilidad",
+       "descripcion":"Realizar labores de campo para Identificar no conformidades, eficiencia y cumplimiento de los controles internos con el fin de proponer y recomendar acciones correctivas para el área Comercial (Ventas, Distribución, Trade Marketing y Marketing). -Validar y hacer seguimiento en forma diaria en el mercado las entregas de bonificaciones, descuentos, firma de facturas y su conformidad de acuerdo a la normativa de los procesos internos del área Comercial.",
+       "aplicar":"Aldaba",
+       "url":"https://www.aldaba.com/detalle_of.php?oferta=24758902&job=Auditor-Comercial-Junior-Santo-Domingo-Este"
+   },
+   {
+       "id":8,
+       "puesto":"Analista de Datos Maestros",
+       "area":"contabilidad",
+       "descripcion":"Ejecutar el registro de los datos maestros basados en los requerimientos del negocio, con el objetivo de velar por la integridad y calidad de la información de los sistemas de la organización. Estudiante de Carreras Administración de Empresas/Contador/Economía y/o afines.",
+       "aplicar":"Aldaba",
+       "url":"https://www.aldaba.com/detalle_of.php?oferta=24754264&job=Analista-de-Datos-Maestros-Santo-Domingo-Este"
+   },
+   {
+       "id":9,
+       "puesto":"Gerente de Contabilidad",
+       "area":"contabilidad",
+       "descripcion":"1. Llevar el control de los registros contables manteniendo actualizadas las cuentas y proporcionando información vital a la Gerencia del manejo de las mismas. 2. Liquidación de Mercancía. 3. Dpto. de Facturación 4. Revisar la nómina de pago a los empleados, los reportes de horas extra y los pagos a TSS. 5. Revisa las Cuentas por Pagar, Cuentas por Cobrar, tanto Locales como Internacionales. 6. Revisar todas las transacciones contables.",
+       "aplicar":"Aldaba",
+       "url":"https://www.aldaba.com/detalle_of.php?oferta=24738850&job=GERENTE-DE-CONTABILIDAD-Santo-Domingo-Este"
+   },
+   {
+       "id":10,
+       "puesto":"Encargada de Contabilidad",
+       "area":"contabilidad",
+       "descripcion":"Licenciado (a) en contabilidad 3 a 5 años de experiencia Capacidad para resolver problemas y buscar soluciones Capacidad analítica Conocimiento avanzado del paquete de office Experiencia en el área de contabilidad de 3 a 5 años Manejo de Informes financieros Manejo de personal Manejo de contabilidad impositiva capacidad para preparar informes y registros diarios capacidad para elaborar presupuestos y flujo de caja",
+       "aplicar":"Aldaba",
+       "url":"https://www.aldaba.com/detalle_of.php?oferta=24710784&job=Encargada-de-Contabilidad-Santo-Domingo-Este"
+   }
 ]
