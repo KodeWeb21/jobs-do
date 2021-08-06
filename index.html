@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empleos en Republica Dominicana</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="cabecera">
+        <h1 class="cabecera__titulo">¿Buscas Empleo?</h1>
+        <p class="cabecera__texto">Descubre vacantes en toda la Republica Dominicana</p>
+        <div class="buscar">
+            <select id="buscarSeleccion" class="buscar__seleccion">
+                <option>Contabilidad</option>
+                <option>Ventas</option>
+            </select>
+            <button class="Boton" id="botonBuscar">BUSCAR</button>
+        </div>
+    </header>
+    <main class="principal">
+        <h2>Vacantes</h2>
+     <section class="contenedor-vacantes">
+        <template id="vacante">
+            <article class="vacante">
+                <h3 id="tituloVacante" class="vacante__titulo"></h3>
+                <p id="descripcionVacante" class="vacante__descripcion"></p>
+                <a id="botonVacante" class="vacante__boton"></a>
+            </article>
+        </template>
+     </section>
+    </main>
+    <script src="jobs.json"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
