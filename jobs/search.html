@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscar - Empleo</title>
+    <link rel="stylesheet" href="../css/font.css">
+    <link rel="stylesheet" href="../css/search.css">
+    <script>
+        const queryString = location.search;
+       if(queryString === "") location.href="../index.html";
+    </script>
+</head>
+<body>
+    <header class="cabecera">
+    <form action="" method="GET">
+        <div class="buscar">
+            <select id="buscarSeleccion" class="buscar__seleccion" name="area">
+                <option value="contabilidad">Contabilidad</option>
+                <option value="ventas">Ventas</option>
+            </select>
+            <button class="boton" id="botonBuscar" type="submit">BUSCAR</button>
+        </div>
+    </form>
+    </header>
+    <main class="principal">
+     <section class="contenedor-vacantes">
+        <template id="vacante">
+            <article class="vacante">
+                <h3 id="tituloVacante" class="vacante__titulo"></h3>
+                <p id="descripcionVacante" class="vacante__descripcion"></p>
+                <a id="botonVacante" target="__blank" class="vacante__boton"></a>
+            </article>
+        </template>
+     </section>
+    </main>
+    <script>
+        const selects = document.querySelectorAll('option');
+        const querystring = location.search;
+        const params = new URLSearchParams(queryString);
+        for(const select of [...selects]){
+            if(select.textContent.toLowerCase()  === params.get('area')) select.setAttribute('selected',true);
+        }
+    </script>
+    <script src="../js/search.js"></script>
+</body>
+</html>
