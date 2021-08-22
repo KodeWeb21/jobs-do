@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="../css/font.css">
+    <link rel="stylesheet" href="../css/job.css">
+    <script>
+       const queryString = location.search;
+       if(queryString === "") location.href="../index.html";
+       const title = document.querySelector('title');
+       const parametros = new URLSearchParams(queryString);
+       const titlePuesto = parametros.get('desc')
+       title.textContent = titlePuesto;
+    </script>
+</head>
+<body>
+    <header class="cabecera">
+        <h1 id="title" class="title">Empleo</h1>
+    </header>
+    <main class="main">
+        <section class="contenedor-vacantes">
+            <template id="vacante">
+                <article class="vacante">
+                    <h3 id="tituloVacante" class="vacante__titulo"></h3>
+                    <p id="descripcionVacante" class="vacante__descripcion"></p>
+                    <a id="botonVacante" target="__blank" class="vacante__boton"></a>
+                </article>
+            </template>
+         </section>
+    </main>
+     <script src="../js/job.js"></script>
+</body>
+</html>
