@@ -5,22 +5,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Empleos en Republica Dominicana</title>
+    <link rel="stylesheet" href="css/font.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <header class="cabecera">
         <h1 class="cabecera__titulo">¿Buscas Empleo?</h1>
         <p class="cabecera__texto">Descubre vacantes en toda la Republica Dominicana</p>
-        <div class="buscar">
-            <select id="buscarSeleccion" class="buscar__seleccion">
-                <option>Contabilidad</option>
-                <option>Ventas</option>
-            </select>
-            <button class="Boton" id="botonBuscar">BUSCAR</button>
-        </div>
+        <form action="jobs/search.html" method="GET">
+            <div class="buscar">
+                <select id="buscarSeleccion" class="buscar__seleccion" name="area">
+                    <option value="contabilidad">Contabilidad</option>
+                    <option value="ventas">Ventas</option>
+                </select>
+                <button class="boton" id="botonBuscar" type="submit">BUSCAR</button>
+            </div>
+        </form>
     </header>
     <main class="principal">
-        <h2>Vacantes</h2>
+        <h2 class="title">Vacantes</h2>
      <section class="contenedor-vacantes">
         <template id="vacante">
             <article class="vacante">
