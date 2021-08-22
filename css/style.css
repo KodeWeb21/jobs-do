@@ -4,6 +4,7 @@
     --color-text-boton:#E5E5E5;
     --margin-cabecera: 24px;
     --md-contenedores: 98%;
+    --color-background-vacante:#f1f5f9;
 }
 
 body{
@@ -78,6 +79,8 @@ body{
 }
 
 .vacante{
+    background-color:var(--color-background-vacante);
+    margin:20px 0;
     padding-bottom:10px;
     border-bottom:1px solid #3333;
 }
