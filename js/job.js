@@ -1,5 +1,5 @@
 const contenedorVacantes = document.querySelector('.contenedor-vacantes');
-const url = 'https://jobs-do.netlify.app/jobs.json';
+const url = 'https://jobsdo.netlify.app/jobs.json';
 
 const obtenerTodosLosTrabajo = (url) =>{
     return fetch(url)
