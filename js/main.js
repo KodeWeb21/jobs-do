@@ -9,6 +9,10 @@ const contenedorVacantes = document.querySelector('.contenedor-vacantes');
     .catch(error=>console.error(new Error(error)));
 }
 
+const desbordamientoTexto = (cadena) =>{
+    return cadena.slice(0,200).concat('...');
+}
+
 const pintarTrabajos = async () =>{
     const trabajos = await obtenerTodosLosTrabajo();
     const fragment = document.createDocumentFragment();
@@ -19,7 +23,7 @@ const pintarTrabajos = async () =>{
     console.log(trabajos);
    for(const trabajo of trabajos){
     tituloVacante.textContent = trabajo.puesto;
-    descripcionVacante.textContent = trabajo.descripcion;
+    descripcionVacante.textContent = desbordamientoTexto(trabajo.descripcion.trim());
     const jobUrl = `jobs/job.html?job=${trabajo.id}&desc=${trabajo.puesto}`
     vacanteBoton.setAttribute('href',jobUrl)
     vacanteBoton.textContent = 'Ver más';
