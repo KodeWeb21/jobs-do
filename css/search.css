@@ -59,4 +59,5 @@ body{
 .vacante{
     padding-bottom:10px;
     border-bottom:1px solid #3333;
+    background-color:var(--color-background-vacante);
 }
