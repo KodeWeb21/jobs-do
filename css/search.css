@@ -11,11 +11,12 @@ body{
 
 .cabecera{
     background-color:var(--color-secundario);
-    padding:.4rem;
+    padding:10px 20px;
 }
 
 .buscar{
     display:flex;
+    gap: 10px;
 }
 
 .boton{
@@ -26,10 +27,13 @@ body{
     min-height:24px;
     line-height:24px;
     border-radius:5px;
+    min-width: 112px;
 }
 
 .buscar__seleccion{
     min-width:150px;
+    border: 0;
+    border-radius: 5px;
 }
 
 .boton, .vacante__boton{
@@ -42,7 +46,7 @@ body{
 }
 
 .vacante__boton{
-    display: inline-block;
+    display: block;
     text-decoration: none;
     min-height: 25px;
     background-color: var(--color-principal);
@@ -57,7 +61,10 @@ body{
 }
 
 .vacante{
-    padding-bottom:10px;
+    padding: 10px 20px;
+    overflow: hidden;
+    max-height: 400px;
+    margin: 20px 0;
     border-bottom:1px solid #3333;
     background-color:var(--color-background-vacante);
 }
