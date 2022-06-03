@@ -6,6 +6,7 @@
 
 body{
     margin:0;
+    min-height: 100vh;
 }
 
 .cabecera{
@@ -35,7 +36,7 @@ body{
 }
 
 .vacante__boton{
-    display: inline-block;
+    display: block;
     text-decoration: none;
     min-height: 25px;
     background-color: var(--color-principal);
@@ -43,6 +44,9 @@ body{
     margin: 16px 0;
     line-height:25px;
     border-radius:4px;
+    position: fixed;
+    width: 85%;
+    bottom: 0;
 }
 
 .title, .contenedor-vacantes{
@@ -51,7 +55,6 @@ body{
 
 .vacante{
     padding-bottom:10px;
-    border-bottom:1px solid #3333;
 }
 
 .vacante__titulo{
@@ -61,4 +64,5 @@ body{
 .vacante__descripcion{
     font-size:16px;
     line-height:2;
+    padding-bottom: 25px;
 }
