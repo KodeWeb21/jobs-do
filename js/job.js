@@ -23,7 +23,7 @@ const pintarTrabajo = async () =>{
     tituloVacante.textContent = trabajo[0].puesto;
     descripcionVacante.textContent = trabajo[0].descripcion;
     vacanteBoton.setAttribute('href',trabajo[0].url)
-    vacanteBoton.textContent = 'Aplicar en Aldaba';
+    vacanteBoton.textContent = `Aplicar en ${trabajo[0].aplicar}`;
     const clon = document.importNode(vacante.content,true);
     contenedorVacantes.appendChild(clon);
 }
